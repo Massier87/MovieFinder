@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar{
+  margin-bottom: 0;
+}
+
+.test{
+  min-width: 100%;
+  display: inline-block;
+  background-color: yellow;
+}
+
+img{
+  width: 100%;
+}
